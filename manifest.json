@@ -1,0 +1,22 @@
+[
+  {
+    "guid": "9f8b2c14-6d7e-4a35-b1c0-5e2a7d3f8b41",
+    "name": "Beste Stream Companion",
+    "description": "Segments, library reports, backdrop pins, TMDB and Seerr — the server-side half of the Beste Stream client.",
+    "overview": "The server-side half of the Beste Stream client.",
+    "owner": "peter",
+    "category": "General",
+    "versions": [
+      {
+        "version": "3.1.4.0",
+        "changelog": "Let zip write where it insists, then move the archive\n\nThe find diagnostic located it: zip ignores the directory part of the archive argument here and writes the basename into the working directory, while scanning the path it was given as an input file. Both earlier failures were that, once from pkg/ and once from the workspace root. A bare archive name lands in the same place under either behaviour, so mv is now the only line that decides where it goes.\n\nCo-Authored-By: Claude Opus 5 <noreply@anthropic.com>",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_3.1.4.0.zip",
+        "checksum": "825aa3b0290656e993129a7503b28795",
+        "timestamp": "2026-09-11T08:08:29Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      }
+    ]
+  }
+]
