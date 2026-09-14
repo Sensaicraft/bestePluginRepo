@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "3.1.6.0",
+        "changelog": "Added Request failed option",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_3.1.6.0.zip",
+        "checksum": "b531c66defe5cac4f5bd8508481b4db1",
+        "timestamp": "2026-09-14T13:24:29Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "3.1.4.0",
         "changelog": "Let zip write where it insists, then move the archive\n\nThe find diagnostic located it: zip ignores the directory part of the archive argument here and writes the basename into the working directory, while scanning the path it was given as an input file. Both earlier failures were that, once from pkg/ and once from the workspace root. A bare archive name lands in the same place under either behaviour, so mv is now the only line that decides where it goes.\n\nCo-Authored-By: Claude Opus 5 <noreply@anthropic.com>",
         "targetAbi": "10.11.0.0",
