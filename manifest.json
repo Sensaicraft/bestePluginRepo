@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.0.0.0",
+        "changelog": "Update to Jellyfin 12.0",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.0.0.0.zip",
+        "checksum": "3afd54125769d8eb8b93c96b8c0cacaf",
+        "timestamp": "2026-09-15T16:58:14Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "3.1.9.0",
         "changelog": "Season Request Fix",
         "targetAbi": "10.11.0.0",
