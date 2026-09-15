@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "3.1.8.0",
+        "changelog": "Season Request",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_3.1.8.0.zip",
+        "checksum": "487789a2ffc5a977bfe204365d8e716e",
+        "timestamp": "2026-09-15T15:46:57Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "3.1.7.0",
         "changelog": "Cannot delete failed Request",
         "targetAbi": "10.11.0.0",
