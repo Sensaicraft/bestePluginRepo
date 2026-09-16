@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.0.1.0",
+        "changelog": "Added Seerr Support for Playlists",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.0.1.0.zip",
+        "checksum": "5dd80f3a99903197d0f868eb2bfe8b03",
+        "timestamp": "2026-09-16T22:01:01Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.0.0.1",
         "changelog": "Update to Jellyfin 12.0",
         "targetAbi": "12.0.0.0",
