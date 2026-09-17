@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.0.2.0",
+        "changelog": "Added Release Calendar",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.0.2.0.zip",
+        "checksum": "2807e86b4ec8c79826cefb3e9c1e8deb",
+        "timestamp": "2026-09-17T18:36:43Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.0.1.0",
         "changelog": "Added Seerr Support for Playlists",
         "targetAbi": "12.0.0.0",
