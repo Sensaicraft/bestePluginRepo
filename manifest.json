@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.0.4.0",
+        "changelog": "Playlist Sharing",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.0.4.0.zip",
+        "checksum": "959a18ef4b240bde7c9a3c8bca2fad1c",
+        "timestamp": "2026-09-18T08:00:20Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.0.3.0",
         "changelog": "Release Calendar Rework",
         "targetAbi": "12.0.0.0",
