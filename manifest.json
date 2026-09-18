@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.0.6.0",
+        "changelog": "Remove Shared Playlist",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.0.6.0.zip",
+        "checksum": "6310336d8b5c6770c1673ceb68e45243",
+        "timestamp": "2026-09-18T10:17:58Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.0.5.0",
         "changelog": "Sharing Rework",
         "targetAbi": "12.0.0.0",
