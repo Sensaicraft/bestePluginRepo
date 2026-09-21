@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.1.0.0",
+        "changelog": "Downloads: ETag Endpoint added",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.1.0.0.zip",
+        "checksum": "e3b23d45868fefaa826664275b82eb94",
+        "timestamp": "2026-09-21T10:54:37Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.0.6.0",
         "changelog": "Remove Shared Playlist",
         "targetAbi": "12.0.0.0",
