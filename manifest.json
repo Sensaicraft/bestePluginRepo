@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.1.1.0",
+        "changelog": "Downloads: reworked system",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.1.1.0.zip",
+        "checksum": "746409a87213f540dc44c63765268545",
+        "timestamp": "2026-09-22T09:59:07Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.1.0.0",
         "changelog": "Downloads: ETag Endpoint added",
         "targetAbi": "12.0.0.0",
