@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.1.2.0",
+        "changelog": "Downloads: imrpoved logging",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.1.2.0.zip",
+        "checksum": "7a9ab28b289c53df5c63b59489be6332",
+        "timestamp": "2026-09-22T14:52:10Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.1.1.0",
         "changelog": "Downloads: reworked system",
         "targetAbi": "12.0.0.0",
