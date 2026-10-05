@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.2.0.0",
+        "changelog": "Added new Avatar Options",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.2.0.0.zip",
+        "checksum": "aa82a35a6a6328a199d60a7979e5ed14",
+        "timestamp": "2026-10-05T07:27:29Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.1.2.0",
         "changelog": "Downloads: imrpoved logging",
         "targetAbi": "12.0.0.0",
