@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.3.0.0",
+        "changelog": "Wrapped: added",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.3.0.0.zip",
+        "checksum": "c9bf628e05294a2d96bb9568365f4b88",
+        "timestamp": "2026-10-07T19:45:17Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.2.1.0",
         "changelog": "Seerr: better account handling",
         "targetAbi": "12.0.0.0",
