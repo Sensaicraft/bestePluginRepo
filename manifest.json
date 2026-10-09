@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.3.3.0",
+        "changelog": "Messaging: added Messenger",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.3.3.0.zip",
+        "checksum": "8c66151d2e7511e3f9c2fbfa6c1a289a",
+        "timestamp": "2026-10-09T17:20:30Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.3.2.0",
         "changelog": "Sync Watch: added Chat",
         "targetAbi": "12.0.0.0",
