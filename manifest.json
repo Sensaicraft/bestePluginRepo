@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.3.5.0",
+        "changelog": "Achievements: added Achievements",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.3.5.0.zip",
+        "checksum": "d42b1276cfb8569efc59ed902ca34998",
+        "timestamp": "2026-10-10T13:21:40Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.3.4.0",
         "changelog": "Clipping: added Clipping Tool",
         "targetAbi": "12.0.0.0",
