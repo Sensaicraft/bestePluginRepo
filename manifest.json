@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.3.7.0",
+        "changelog": "Profiles: added Public Profiles",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.3.7.0.zip",
+        "checksum": "43ad7a84c8d3b3d4e771152c5c06f4de",
+        "timestamp": "2026-10-10T16:40:43Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.3.6.0",
         "changelog": "Avatars: added Ordering",
         "targetAbi": "12.0.0.0",
