@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.4.0.0",
+        "changelog": "Achievements: reworked + Leveling System",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.4.0.0.zip",
+        "checksum": "ca9a8af388e3c79b36f8f6f80b2d794f",
+        "timestamp": "2026-10-11T17:00:25Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.3.8.0",
         "changelog": "Messenger: added Replies + Achievements: now uses Playback Reporting",
         "targetAbi": "12.0.0.0",
