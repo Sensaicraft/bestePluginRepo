@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.3.8.0",
+        "changelog": "Messenger: added Replies + Achievements: now uses Playback Reporting",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.3.8.0.zip",
+        "checksum": "a87cc0bb5e988753e3b85afb87d1b37c",
+        "timestamp": "2026-10-11T09:17:21Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.3.7.0",
         "changelog": "Profiles: added Public Profiles",
         "targetAbi": "12.0.0.0",
