@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.4.2.0",
+        "changelog": "Achievements: added more routes",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.4.2.0.zip",
+        "checksum": "d8f3ab058594408b142c00dda3f4c759",
+        "timestamp": "2026-10-12T16:46:47Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.4.1.0",
         "changelog": "Achievements: no max level + recalculating",
         "targetAbi": "12.0.0.0",
