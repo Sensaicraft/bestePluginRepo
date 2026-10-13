@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.4.3.0",
+        "changelog": "Achievements: added watch-room support",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.4.3.0.zip",
+        "checksum": "bc074c09683f4841af752f4701c57bc0",
+        "timestamp": "2026-10-13T06:58:15Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.4.2.0",
         "changelog": "Achievements: added more routes",
         "targetAbi": "12.0.0.0",
