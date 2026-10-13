@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.4.4.0",
+        "changelog": "Watch-Room: Added Roulette",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.4.4.0.zip",
+        "checksum": "5fc29b935f8c4f467ad8a3d52ae0c556",
+        "timestamp": "2026-10-13T16:21:35Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.4.3.0",
         "changelog": "Achievements: added watch-room support",
         "targetAbi": "12.0.0.0",
