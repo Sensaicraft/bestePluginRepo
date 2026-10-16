@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.4.7.0",
+        "changelog": "Weekly-Challenges: Added Global Challenge",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.4.7.0.zip",
+        "checksum": "e4d07fd7392806ec362715f98ba9b7a8",
+        "timestamp": "2026-10-16T18:36:00Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.4.6.0",
         "changelog": "Watch-Streaks: Added System",
         "targetAbi": "12.0.0.0",
