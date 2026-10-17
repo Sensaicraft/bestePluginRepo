@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.4.9.0",
+        "changelog": "Titles: Fixed multiple popups",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.4.9.0.zip",
+        "checksum": "94dbf165d74c2036a26baef3257533c7",
+        "timestamp": "2026-10-17T17:10:51Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.4.8.0",
         "changelog": "Profile: Added Titles",
         "targetAbi": "12.0.0.0",
