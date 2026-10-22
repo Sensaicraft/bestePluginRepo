@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.4.10.0",
+        "changelog": "Messenger: Added new Feature\\nNotifications: Reworked Structure",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.4.10.0.zip",
+        "checksum": "733f8b84928cb03ff2c3f091ea05d9e5",
+        "timestamp": "2026-10-22T08:08:00Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.4.9.0",
         "changelog": "Titles: Fixed multiple popups",
         "targetAbi": "12.0.0.0",
