@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.4.11.0",
+        "changelog": "Big Update",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.4.11.0.zip",
+        "checksum": "2a265d3441e080eded2b5833327b2003",
+        "timestamp": "2026-10-27T19:55:45Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.4.10.0",
         "changelog": "Big Update",
         "targetAbi": "12.0.0.0",
