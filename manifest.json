@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.4.13.0",
+        "changelog": "Admin: Playback Reporting Page",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.4.13.0.zip",
+        "checksum": "95db507f91e6650374f24b3818df6c6d",
+        "timestamp": "2026-10-28T07:45:26Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.4.12.0",
         "changelog": "Library: Genre-Splitting added",
         "targetAbi": "12.0.0.0",
