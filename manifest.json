@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.4.15.0",
+        "changelog": "Framed: Added Admin Replay",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.4.15.0.zip",
+        "checksum": "00d3f3385fc38a8d8ba5302697989030",
+        "timestamp": "2026-10-29T09:54:12Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.4.14.0",
         "changelog": "Framed Game",
         "targetAbi": "12.0.0.0",
