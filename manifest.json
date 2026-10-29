@@ -2,11 +2,21 @@
   {
     "guid": "9f8b2c14-6d7e-4a35-b1c0-5e2a7d3f8b41",
     "name": "Beste Stream Companion",
-    "description": "Segments, library reports, backdrop pins, TMDB and Seerr — the server-side half of the Beste Stream client.",
+    "description": "Segments, library health, TMDB and Seerr, playlists, messages and watch rooms, achievements and Wrapped, downloads, clips and backups — the server-side half of the Beste Stream client.",
     "overview": "The server-side half of the Beste Stream client.",
     "owner": "peter",
     "category": "General",
     "versions": [
+      {
+        "version": "4.4.14.0",
+        "changelog": "Framed Game",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.4.14.0.zip",
+        "checksum": "86c0d2f8635e0627ef7f47d76653e5c3",
+        "timestamp": "2026-10-29T08:47:23Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
       {
         "version": "4.4.13.0",
         "changelog": "Admin: Playback Reporting Page",
