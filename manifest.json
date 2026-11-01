@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.5.0.0",
+        "changelog": "Homepage: Most Popular Row",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.5.0.0.zip",
+        "checksum": "ba64cc0a68875649f82303580ba3dfa0",
+        "timestamp": "2026-11-01T13:10:19Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.4.16.0",
         "changelog": "Framed: Added Titles",
         "targetAbi": "12.0.0.0",
