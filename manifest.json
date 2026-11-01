@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.5.1.0",
+        "changelog": "Season-Posters: No Automatic Season Posters",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.5.1.0.zip",
+        "checksum": "5a0fdde762bb906952f443bf2d814198",
+        "timestamp": "2026-11-01T14:38:44Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.5.0.0",
         "changelog": "Homepage: Most Popular Row",
         "targetAbi": "12.0.0.0",
