@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.5.5.0",
+        "changelog": "Rows: Added Award Winners",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.5.5.0.zip",
+        "checksum": "823019a313e3df0a694b0560c9133d9d",
+        "timestamp": "2026-11-18T16:51:38Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.5.4.0",
         "changelog": "Profiles: Added Avatar Frames",
         "targetAbi": "12.0.0.0",
