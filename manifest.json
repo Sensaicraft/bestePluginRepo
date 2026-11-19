@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.6.0.0",
+        "changelog": "Events: Added Christmas Event",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.6.0.0.zip",
+        "checksum": "05079319b2077c39145e2f008763c016",
+        "timestamp": "2026-11-19T20:59:38Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.5.5.0",
         "changelog": "Rows: Added Award Winners",
         "targetAbi": "12.0.0.0",
