@@ -8,6 +8,16 @@
     "category": "General",
     "versions": [
       {
+        "version": "4.6.1.0",
+        "changelog": "Events: Added Christmas Frames",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/packages/beste-stream-companion_4.6.1.0.zip",
+        "checksum": "0ee39d6d2252ca173e554d10b23838d3",
+        "timestamp": "2026-11-21T09:48:29Z",
+        "repositoryName": "Beste Stream",
+        "repositoryUrl": "https://raw.githubusercontent.com/Sensaicraft/bestePluginRepo/main/manifest.json"
+      },
+      {
         "version": "4.6.0.0",
         "changelog": "Events: Added Christmas Event",
         "targetAbi": "12.0.0.0",
